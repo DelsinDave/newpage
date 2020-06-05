@@ -1,0 +1,73 @@
+body{
+  background-color: #8ccbbe;
+  margin: 0px ;
+    text-align: center;
+}
+.classe_nuova{
+  position:absolute;
+  width: 100%;
+  background-color: #3797a4 ;
+  display: block;
+margin-left: 0;
+
+}
+
+
+#testo_grande{
+  font-size: 200%;
+  font-family: "Satisfy" , cursive;
+}
+
+#cloud{
+  position :absolute;
+  top: 200px ;
+  left: 200px;
+}
+#second_cloud{
+  position: absolute;
+  top: 60px;
+  right: 200px;
+}
+hr{
+  border: none ;
+  height : 3px;
+  width: 40% ;
+  border-top : 3px dotted white ;
+}
+h1{
+  font-family: "Satisfy" , cursive;
+}
+h2{
+  font-family: "Satisfy" , cursive;
+  color: #3797a4;
+}
+h3{
+  font-family: "Satisfy" , cursive;
+}
+.middle-container{
+  background-color: #8ccbbe ;
+  display: block;
+  position: absolute;
+  width: 100%;
+  top: 445px;
+}
+.code{
+  width: 200px;
+  height: 200px;
+}
+.box{
+  width: 200px;
+  height: 200px;
+}
+.bottom-container{
+ position: absolute;
+ display: block;
+ width:auto;
+ bottom: -100px;
+ right: 0px;
+  background-color: #8ccbbe;
+
+}
+.cinese{
+  background-color: #3797a4;
+}
